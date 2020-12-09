@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/DAM_20_21/HLC/agendaLion2/Btree.h
+Contacto.h
+D:/DAM_20_21/HLC/agendaLion2/Contacto.h
+
+D:/DAM_20_21/HLC/agendaLion2/Contacto.h
+Persona.h
+D:/DAM_20_21/HLC/agendaLion2/Persona.h
+
+D:/DAM_20_21/HLC/agendaLion2/Persona.h
+string
+-
+iostream
+-
+
+D:/DAM_20_21/HLC/agendaLion2/main.cpp
+iostream
+-
+fstream
+-
+Btree.h
+D:/DAM_20_21/HLC/agendaLion2/Btree.h
+
